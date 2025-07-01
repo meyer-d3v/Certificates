@@ -46,8 +46,11 @@ Each folder contains:
 Example:
 
 /JavaScript Algorithms and Data Structures (FreeCodeCamp)/
+
 └── freecodecamp.org_certification_meyer-dev_javascript-algorithms-and-data-structures-v8.pdf
+
 /Web Development (SoloLearn)/
+
 └── 6c43d6db-8402-49dd-b974-55d5d5a20a08.pdf
 
 ---
