@@ -29,12 +29,10 @@ This repository includes certifications across a wide range of fields:
 ## 🏅 Platforms & Academies
 
 - **freeCodeCamp**
-- **Huawei ICT Academy**
 - **Cisco Networking Academy**
 - **SoloLearn**
-- **Grasshopper**
-- **Great Learning**
-- **FNB App Academy**
+- **IBM SkillsBuild**
+- **HP Life**
 - ...and more
 
 ---
@@ -43,15 +41,14 @@ This repository includes certifications across a wide range of fields:
 
 Each folder contains:
 - 📜 PDF or image of the certification
-- 📝 Brief description (optional `README.md` inside folders)
 - 📅 Date completed
 
 Example:
 
-/freeCodeCamp/
-└── JavaScript Algorithms and Data Structures.pdf
-/Huawei/
-└── Routing and Switching Fundamentals.pdf
+/JavaScript Algorithms and Data Structures (FreeCodeCamp)/
+└── freecodecamp.org_certification_meyer-dev_javascript-algorithms-and-data-structures-v8.pdf
+/Web Development (SoloLearn)/
+└── 6c43d6db-8402-49dd-b974-55d5d5a20a08.pdf
 
 ---
 
@@ -63,8 +60,8 @@ These certifications are more than just badges — they represent hours of focus
 
 ## 🔗 Let’s Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/dean-meyer)
-- 🚀 [GitHub Portfolio](https://github.com/dean-meyer)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dean-meyer-385342247/)
+- 🚀 [GitHub Portfolio](https://github.com/meyer-d3v)
 - 📬 Open to internships, freelance work, and collaborations
 
 ---
